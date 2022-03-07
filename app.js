@@ -35,6 +35,7 @@ function addtodo(event) {
     //clear todo input value
     todoinput.value = "";
 
+
 }
 
 function deletecheck(e) {
